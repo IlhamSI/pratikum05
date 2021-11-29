@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PRAKTIKUM 5.3</title>
+<style>
+    .kotak1{
+    background-color: gold;
+    border: 1px solid black;
+    margin: 2em;
+    padding: 3em;
+    width: 11%;
+    height: 40px;
+    float: left;
+    margin-bottom: -10px;
+    margin-left: 5px;
+    margin-top: -5px;
+   }
+  .kotak2{
+      background-color: seashell;
+      border: 1px solid black;
+      margin: 2em;
+      padding: 3em;
+      width: 72%;
+      height: 40px;
+      float: right;
+      margin-top: -128px;
+      margin-right: 5px;
+      margin-left: 22px;
+  }
+  .kotak3{
+      background-color: khaki;
+      border: 1px solid black;
+      margin: 2em;
+      padding: 3em;
+      width: 11%;
+      height: 500px;
+      float: left;
+      margin-top: -10px;
+      margin-left: 5px;  
+  }
+  .kotak4{
+      background-color:honeydew;
+      border: 1px solid black;
+      margin: 2em;
+      padding: 3em;
+      width: 53%;
+      height: 500px;
+      float: left;  
+      margin-right: -25px;  
+      margin-left: -20px; 
+      margin-top: -10px;
+  }
+  .kotak5{
+      background-color:firebrick;
+      border: 1px solid black;
+      margin: 2em;
+      padding: 3em;
+      width: 11%;
+      height: 500px;
+      float: right;
+      margin-right: 5px;
+      margin-top: -10px;
+  }  
+  .kotak6{
+      background-color:lightgoldenrodyellow;
+      border: 1px solid black;
+      margin: 1em;
+      padding: 3em;
+      width: 92%;
+      height: 40px;
+      float: right; 
+      margin-left: 5px; 
+      margin-right: 5px; 
+      margin-top: -15px;
+  } 
+</style>
+
+</head>
+<body>
+    <div class="kotak1"></div>
+
+    <div class="kotak2"></div>
+
+    <div class="kotak3"></div>
+
+    <div class="kotak4"></div>
+
+    <div class="kotak5"></div>
+
+    <div class="kotak6"></div>
+
+</body>
+</html>
